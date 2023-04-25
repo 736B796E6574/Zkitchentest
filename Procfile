@@ -1,1 +1,1 @@
-web: gunicorn cookhouse.wsgi
+web: gunicorn Restaurant_booking.wsgi
