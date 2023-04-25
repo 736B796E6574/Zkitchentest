@@ -1,1 +1,1 @@
-web: gunicorn ZKITCHEN.wsgi
+web: gunicorn cookhouse.wsgi
